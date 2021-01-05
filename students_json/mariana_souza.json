@@ -71,7 +71,17 @@
       "interesse_evento_curso": "Redes: Introdução, Conceitos e Prática",
       "instituicao": "Alura Cursos Online",
       "resumo_conhecimentos_interesses": "Entendimento sobre Hub, Switch, Roteador, DHCP, DNS e IP. Utilização do programa de simulação de redes Packet Tracer."
-    }
+    },
+    {
+      "interesse_evento_curso": "Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Conceitos de Sistema de Gerenciamento de Banco de Dados, entidades, relacionamentos, atributos e Construção do Modelo Entidade-Relacionamento."
+    },
+    {
+      "interesse_evento_curso": "Java JRE e JDK 1",
+      "instituicao": "Alura Cursos Online",
+      "resumo_conhecimentos_interesses": "Conceitos de Variáveis e controle de fluxo, principais tipos do Java, compilação e exercução de códigos Java."
+    }    
   ],
   "no_que_me_destaco": [
     {
